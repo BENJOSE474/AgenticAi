@@ -8,4 +8,5 @@ langchain_groq
 arxiv
 wikipedia
 langgraph-cli[inmem]
+langchain_huggingface
 
